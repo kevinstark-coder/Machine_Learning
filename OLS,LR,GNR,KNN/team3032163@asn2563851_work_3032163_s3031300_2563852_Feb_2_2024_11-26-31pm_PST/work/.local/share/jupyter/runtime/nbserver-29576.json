@@ -1,0 +1,11 @@
+{
+  "base_url": "/hostip/172.31.41.123:6000/user/eee_W_2819142_3032163_3032163_2563852_0/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/mnt/vocwork5/work/eee_W_2819142/asn2563851_1/asn2563852_1/work",
+  "password": false,
+  "pid": 29576,
+  "port": 39790,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:39790/hostip/172.31.41.123:6000/user/eee_W_2819142_3032163_3032163_2563852_0/"
+}
